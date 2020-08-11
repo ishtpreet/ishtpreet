@@ -31,7 +31,11 @@
 
 
 ---
-<img align="left" alt="Ishtpreet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishtpreet&show_icons=true&hide_border=ture">
+<img align="left" alt="Ishtpreet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishtpreet&show_icons=true&hide_border=ture&count_private=true&theme=dark" />
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtpreet)]
 
 [twitter]: https://twitter.com/ishtpreet99
 [instagram]: https://instagram.com/ishtpreet99
