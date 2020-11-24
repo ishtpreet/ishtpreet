@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact: I love to ride and listen to rock music.
+- ⚡ Fun fact: I love to ride and listen to pop music.
 
 ### Connect with me:
 
