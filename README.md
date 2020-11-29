@@ -34,7 +34,7 @@
 <br />
 
 ---
-<img align="left" alt="Ishtpreet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishtpreet&show_icons=true&hide_border=ture&count_private=true&theme=dark&hide=stars,issues,contribs" />
+<img align="left" alt="Ishtpreet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishtpreet&show_icons=true&hide_border=ture&count_private=true&theme=dark&hide=stars,prs,issues,contribs" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtpreet&hide=css,html&theme=dark)
 
