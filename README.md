@@ -6,10 +6,11 @@
 - ⚡ Fun fact: I love to ride and listen to pop music.
 
 ### Connect with me:
-
+[<img align="left" alt="Ishtpreet | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleearth.svg" />][website]
 [<img align="left" alt="Ishtpreet | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ishtpreet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ishtpreet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -37,7 +38,7 @@
 <img align="left" alt="Ishtpreet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishtpreet&show_icons=true&hide_border=ture&count_private=true&theme=dark&hide=stars,prs,issues,contribs" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtpreet&hide=css,html&theme=dark)
-
+[website]: https://ishtpreet.studio
 [twitter]: https://twitter.com/ishtpreet99
 [instagram]: https://instagram.com/ishtpreet99
 [linkedin]: https://linkedin.com/in/ishtpreet99
