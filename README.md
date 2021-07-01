@@ -39,7 +39,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtpreet&hide=css,html&theme=dark)
 
-[website]: https://ishtpreet.studio
+[website]: https://ishtpreet.tech
 [twitter]: https://twitter.com/ishtpreet99
 [instagram]: https://instagram.com/ishtpreet99
 [linkedin]: https://linkedin.com/in/ishtpreet99
