@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to ride and listen to pop music.
 - ✔  MERN Stack Developer
+- 🖥  FSD Devevloper
 
 ### Connect with me:
 [<img align="left" alt="Ishtpreet | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleearth.svg" />][website]
