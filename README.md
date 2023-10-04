@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I love to ride and listen to pop music.
 - ✔  MERN Stack Developer.
 - 🖥  FSD Developer.
+- 📚 Continuous Learner: Always exploring new technologies, frameworks, and programming languages to stay up-to-date in the ever-evolving field of software development.
 
 ### Connect with me:
 [<img align="left" alt="Ishtpreet | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleearth.svg" />][website]
