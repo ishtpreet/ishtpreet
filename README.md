@@ -7,7 +7,8 @@
 - ✔  MERN Stack Developer.
 - 🖥  FSD Developer.
 - 📚 Continuous Learner: Always exploring new technologies, frameworks, and programming languages to stay up-to-date in the ever-evolving field of software development.
-- 🌐 Web Enthusiast: Fascinated by web development trends, including progressive web apps (PWAs), serverless architectures, and single-page applications (SPAs). Exploring new stuff every day.
+- 🌐 Web Enthusiast: Fascinated by web development trends, including progressive web apps (PWAs), serverless architectures, and single-page applications (SPAs).
+- 🌟 Open Source Contributor: Actively involved in open source projects, contributing code and collaborating with the global developer community.
 
 ### Connect with me:
 [<img align="left" alt="Ishtpreet | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleearth.svg" />][website]
